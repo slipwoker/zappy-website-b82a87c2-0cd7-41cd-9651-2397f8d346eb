@@ -1,0 +1,81 @@
+# המאתר לאיתור נזקי מים — Generative Engine Optimization Map
+
+> A professional leak detection service business, specializing in identifying and locating water leaks. The business operates in the plumbing and property maintenance industry, likely serving homeowners, property managers, or businesses dealing with water damage or hidden leaks.
+
+---
+
+## Pages
+
+### בית
+https://-b82a87c2.zappy5.app
+נזילה בבית? המאתר לאיתור נזקי מים מספק פתרון מקצועי לאיתור נזילות מים בבית, ללא פתיחת קירות. חסוך אלפי שקלים — פנה אלינו עוד היום!
+
+### שירותים
+https://-b82a87c2.zappy5.app/services
+גלה את מגוון שירותי איתור הנזילות המתקדמים שלנו: זיהוי נזקי מים ללא פתיחת קירות, בדיקות לחץ, ואיתור מדויק בכל סוג נכס. טכנולוגיה מובילה, תוצאות מהירות.
+
+### אודות
+https://-b82a87c2.zappy5.app/about
+הכר את הצוות המקצועי שמאחורי המאתר לאיתור נזקי מים — שנות ניסיון, ציוד מתקדם ומחויבות לאיתור נזילות מים בבית בצורה מדויקת, מהירה ובלי נזק מיותר לנכס שלך.
+
+### צור קשר
+https://-b82a87c2.zappy5.app/contact
+צור קשר עם מומחי איתור הנזילות שלנו עוד היום לקבלת אבחון מהיר ומקצועי. זמינים לכל שאלה, הצעת מחיר או שירות חירום לאיתור נזילות מים בבית — אנחנו כאן בשבילך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b82a87c2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b82a87c2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b82a87c2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b82a87c2.zappy5.app/contact
+- Endpoint: https://-b82a87c2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המאתר לאיתור נזקי מים
+A professional leak detection service business, specializing in identifying and locating water leaks. The business operates in the plumbing and property maintenance industry, likely serving homeowners, property managers, or businesses dealing with water damage or hidden leaks.
+
+## Services/Products
+- איתור נזילות
+
+## Target Audience
+- בעלי בתים עם נזקי מים חמורים
+- חברות ניהול נכסים
+- משקיעי נדל"ן
+
+## Industry
+שירותי אינסטלציה ותחזוקה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b82a87c2.zappy5.app/sitemap.xml
+- Robots: https://-b82a87c2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b82a87c2.zappy5.app/llms-full.txt
