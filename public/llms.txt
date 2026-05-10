@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-b82a87c2.zappy5.app
+https://example.com
 נזילה בבית? המאתר לאיתור נזקי מים מספק פתרון מקצועי לאיתור נזילות מים בבית, ללא פתיחת קירות. חסוך אלפי שקלים — פנה אלינו עוד היום!
 
 ### שירותים
-https://-b82a87c2.zappy5.app/services
+https://example.com/services
 גלה את מגוון שירותי איתור הנזילות המתקדמים שלנו: זיהוי נזקי מים ללא פתיחת קירות, בדיקות לחץ, ואיתור מדויק בכל סוג נכס. טכנולוגיה מובילה, תוצאות מהירות.
 
 ### אודות
-https://-b82a87c2.zappy5.app/about
+https://example.com/about
 הכר את הצוות המקצועי שמאחורי המאתר לאיתור נזקי מים — שנות ניסיון, ציוד מתקדם ומחויבות לאיתור נזילות מים בבית בצורה מדויקת, מהירה ובלי נזק מיותר לנכס שלך.
 
 ### צור קשר
-https://-b82a87c2.zappy5.app/contact
+https://example.com/contact
 צור קשר עם מומחי איתור הנזילות שלנו עוד היום לקבלת אבחון מהיר ומקצועי. זמינים לכל שאלה, הצעת מחיר או שירות חירום לאיתור נזילות מים בבית — אנחנו כאן בשבילך.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b82a87c2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b82a87c2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b82a87c2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-b82a87c2.zappy5.app/contact
-- Endpoint: https://-b82a87c2.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ A professional leak detection service business, specializing in identifying and 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b82a87c2.zappy5.app/sitemap.xml
-- Robots: https://-b82a87c2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b82a87c2.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

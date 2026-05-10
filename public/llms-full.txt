@@ -2,13 +2,13 @@
 
 A professional leak detection service business, specializing in identifying and locating water leaks. The business operates in the plumbing and property maintenance industry, likely serving homeowners, property managers, or businesses dealing with water damage or hidden leaks.
 
-Source: https://-b82a87c2.zappy5.app
+Source: https://example.com
 
 ---
 
 ## איתור נזילות — המאתר לאיתור נזקי מים
 
-URL: https://-b82a87c2.zappy5.app
+URL: https://example.com
 Description: נזילה בבית? המאתר לאיתור נזקי מים מספק פתרון מקצועי לאיתור נזילות מים בבית, ללא פתיחת קירות. חסוך אלפי שקלים — פנה אלינו עוד היום!
 
 איתור נזילות — המאתר לאיתור נזקי מים
@@ -483,7 +483,7 @@ Description: נזילה בבית? המאתר לאיתור נזקי מים מספ
 
 ## הטכנולוגיה שמוצאת כל נזילה — המאתר לאיתור נזקי מים
 
-URL: https://-b82a87c2.zappy5.app/services
+URL: https://example.com/services
 Description: גלה את מגוון שירותי איתור הנזילות המתקדמים שלנו: זיהוי נזקי מים ללא פתיחת קירות, בדיקות לחץ, ואיתור מדויק בכל סוג נכס. טכנולוגיה מובילה, תוצאות מהירות.
 
 הטכנולוגיה שמוצאת כל נזילה — המאתר לאיתור נזקי מים
@@ -969,7 +969,7 @@ Description: גלה את מגוון שירותי איתור הנזילות המ�
 
 ## המומחים שישמרו על ביתך מנזקי מים — המאתר לאיתור נזקי מים
 
-URL: https://-b82a87c2.zappy5.app/about
+URL: https://example.com/about
 Description: הכר את הצוות המקצועי שמאחורי המאתר לאיתור נזקי מים — שנות ניסיון, ציוד מתקדם ומחויבות לאיתור נזילות מים בבית בצורה מדויקת, מהירה ובלי נזק מיותר לנכס שלך.
 
 המומחים שישמרו על ביתך מנזקי מים — המאתר לאיתור נזקי מים
@@ -1423,7 +1423,7 @@ Description: הכר את הצוות המקצועי שמאחורי המאתר ל�
 
 ## נזילה? אל תחכה — צור קשר עכשיו — המאתר לאיתור נזקי מים
 
-URL: https://-b82a87c2.zappy5.app/contact
+URL: https://example.com/contact
 Description: צור קשר עם מומחי איתור הנזילות שלנו עוד היום לקבלת אבחון מהיר ומקצועי. זמינים לכל שאלה, הצעת מחיר או שירות חירום לאיתור נזילות מים בבית — אנחנו כאן בשבילך.
 
 נזילה? אל תחכה — צור קשר עכשיו — המאתר לאיתור נזקי מים
@@ -1767,7 +1767,7 @@ Description: צור קשר עם מומחי איתור הנזילות שלנו ע
 
 ## מדיניות פרטיות
 
-URL: https://-b82a87c2.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2027,7 +2027,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-b82a87c2.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2296,7 +2296,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-b82a87c2.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
